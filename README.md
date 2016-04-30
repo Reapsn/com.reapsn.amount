@@ -1,2 +1,2 @@
-# com.reapsn.amount
-com.reapsn.amount
+# com.reapsn.amount.core
+com.reapsn.amount.core
